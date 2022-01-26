@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDom from 'react-dom';
+import { BrowserRouter } from 'react-router-dom';
 
 import './style.css';
+import App from './App';
 
-function Main() {
-  return (
-    <>
-      <h2> Астрахань </h2>
-    </>
-  );
-}
 
-ReactDom.render (<Main />, document.getElementById('root'));
+ReactDom.render(
+    <React.StrictMode>
+        <BrowserRouter>
+            <App />
+        </BrowserRouter>
+    </React.StrictMode>, 
+    document.getElementById('root')
+);

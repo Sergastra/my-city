@@ -1,5 +1,17 @@
 
+header {
+    height: 100px;
+    background-color: rgb(99, 98, 97);
+    margin: 15px;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+
+
+}
+
 h2 {
     text-align: center;
     color: blueviolet;
 }
+
