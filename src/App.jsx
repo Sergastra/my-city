@@ -1,5 +1,5 @@
 import { Routes, Route, Link } from "react-router-dom";
-
+import "bootstrap/dist/css/bootstrap.min.css";
 import { Main } from './pages/Main';
 import { Attractions } from './pages/Attractions';
 import { Photo } from './pages/Photo';
@@ -13,11 +13,11 @@ import { NotFound } from './pages/NotFound';
 function App() {
     return (
         <>
-            <header>
-                <Link to="/"> Main </Link>
-                <Link to="/attractions"> Attractions </Link>
-                <Link to="/photo"> Photo </Link>
-                <Link to="/history"> History </Link>
+            <header id="header">
+                <Link to="/"> Главная </Link>
+                <Link to="attractions"> Достопримечательности </Link>
+                <Link to="photo"> Фотографии </Link>
+                <Link to="history"> История </Link>
             </header>
 
 
@@ -25,9 +25,9 @@ function App() {
 
             <Routes>
                 <Route path="/" element={<Main />} />
-                <Route path="/attractions" element={<Attractions />} />
-                <Route path="/photo" element={<Photo />} />
-                <Route path="/history" element={<History />} />
+                <Route path="attractions" element={<Attractions />} />
+                <Route path="photo" element={<Photo />} />
+                <Route path="history" element={<History />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>
 

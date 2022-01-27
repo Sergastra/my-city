@@ -1,17 +1,76 @@
+body{
+    background:rgb(231, 222, 225) !important;
+}
 
-header {
-    height: 100px;
-    background-color: rgb(99, 98, 97);
+#header {
+    position: sticky;
+    top: 0;
+    z-index: 1001;
+    height: 60px;
+    background-color: rgba(14, 167, 214, 0.514);
     margin: 15px;
-    font-size: 20px;
+    font-size: 25px;
     padding: 20px;
     text-align: center;
+    color: cornsilk;
+}
 
 
+
+a {
+    color: cornsilk !important;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none !important;
+
+}
+
+a:hover {
+    text-decoration: underline !important;
+    color: cyan !important;
+}
+
+h1 {
+    text-align: center;
 }
 
 h2 {
+    margin-top: 60px;
+    font-size: 30px;
     text-align: center;
-    color: blueviolet;
+    color: rgb(73, 67, 68);
 }
 
+.astimg {
+    margin: 10px;
+    height: 100vh;
+    background: url(./pages/compon/scale_1200.jfif) no-repeat;
+    background-size: 100%;
+}
+
+.typed-text {
+    font-size: 2rem;
+    color: var(--primary-gray);
+    text-align: center !important;
+    margin-top: 10rem;    
+}
+    
+/*****************Galerea**************/
+
+.thumb img {
+    -webkit-filter: grayscale(0);
+    filter: none;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.thumb img:hover {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.thumb {
+    padding: 5px;
+}
