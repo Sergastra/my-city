@@ -31,7 +31,7 @@ const Photo = () => {
             <div class="container">
                 <div className="row">
                     <div className="col-lg-3 col-md-4 col-6 thumb">
-                        <a data-fancybox="gallery" href={f7} target="_blank">
+                        <a data-fancybox="gallery"  href={f7} target="_blank" >
                             <img className="img-fluid" src={f7} alt="Индийск. подворье" />
                         </a>
                     </div>
