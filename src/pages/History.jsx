@@ -3,8 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const History = () => {
     return (
         <>
-            <h2> История </h2>
-            <div className="container-sm">
+            <h2> История </h2>         <div className="container-sm">
                 <div className="callout-warning"><h4>Город Астрахань</h4>
 
                     - административный центр Астраханской области,
