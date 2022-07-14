@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-city/static/css/main.4a72ad78.css",
+    "main.js": "/my-city/static/js/main.de126057.js",
+    "static/media/jpg": "/my-city/static/media/1de3d4f3df8abd6ba609b360957ab7b4.62082a8dffd4ea22d8f6.jpg",
+    "static/media/DSC_0328.jpg": "/my-city/static/media/DSC_0328.135ee6cd8caa42f58602.jpg",
+    "static/media/1-naberezhnaya-astrahani.jpg": "/my-city/static/media/1-naberezhnaya-astrahani.ea6b786df1488685b2b8.jpg",
+    "static/media/EcPB0nWXkAA-G7I.jpg": "/my-city/static/media/EcPB0nWXkAA-G7I.96f5be0dbf82faa97f2f.jpg",
+    "static/media/f_aW1nLmdlbGlvcGhvdG8uY29tL2FzdHJha2hhbi8wMV9hc3RyYWtoYW4uanBnP19faWQ9MTI2ODM3.jpeg": "/my-city/static/media/f_aW1nLmdlbGlvcGhvdG8uY29tL2FzdHJha2hhbi8wMV9hc3RyYWtoYW4uanBnP19faWQ9MTI2ODM3.52fe38e939779c9ba498.jpeg",
+    "static/media/20s.jpg": "/my-city/static/media/20s.b7d80586635d5f20246b.jpg",
+    "static/media/original.jpg": "/my-city/static/media/original.1555bff6188c2485659a.jpg",
+    "static/media/scale_1200.jfif": "/my-city/static/media/scale_1200.635f1e7c6bdb7d00f149.jfif",
+    "static/media/1280px-Indpodvorie2.jpg": "/my-city/static/media/1280px-Indpodvorie2.c9ebbbacf94af5301c61.jpg",
+    "static/media/04_astrakhan.jpg": "/my-city/static/media/04_astrakhan.aee3ffc151b5b0b4b1ad.jpg",
+    "static/media/47_astrakhan.jpg": "/my-city/static/media/47_astrakhan.8e791c9a320e953e18ef.jpg",
+    "static/media/127.jpg": "/my-city/static/media/127.fff1d52ddf32c31b064b.jpg",
+    "static/media/Астраханский_кремль.jpg": "/my-city/static/media/Астраханский_кремль.cd6e5f23702e9e2f71bc.jpg",
+    "static/media/Астраханская_телебашня.png": "/my-city/static/media/Астраханская_телебашня.1e01686c75bc2e3d9c43.png",
+    "static/media/31_astrakhan.jpg": "/my-city/static/media/31_astrakhan.6f21f6d33f10eb12dcab.jpg",
+    "static/media/15_astrakhan.jpg": "/my-city/static/media/15_astrakhan.7cb7bce77ecb3cdfa1fa.jpg",
+    "static/media/Цветущий-лотос.jpg": "/my-city/static/media/Цветущий-лотос.fd7a23bb2ae4c259dd80.jpg",
+    "static/media/360.jpg": "/my-city/static/media/360.5bc3d5e2fa46839907e5.jpg",
+    "static/media/Ee_brdQWAAEKtDK.jpg": "/my-city/static/media/Ee_brdQWAAEKtDK.803d3aa33adf43483af2.jpg",
+    "static/media/2364747.jpg": "/my-city/static/media/2364747.02c1eff31611d032e5da.jpg",
+    "static/media/800px-Uspenskii_sobor_astrakhan_k.jpg": "/my-city/static/media/800px-Uspenskii_sobor_astrakhan_k.8e8892377caeb1cb0274.jpg",
+    "static/media/k0730-500.jpg": "/my-city/static/media/k0730-500.dae6abf4ef2d25871a8c.jpg",
+    "index.html": "/my-city/index.html",
+    "main.4a72ad78.css.map": "/my-city/static/css/main.4a72ad78.css.map",
+    "main.de126057.js.map": "/my-city/static/js/main.de126057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a72ad78.css",
+    "static/js/main.de126057.js"
+  ]
+}
